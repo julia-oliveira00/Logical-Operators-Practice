@@ -10,6 +10,8 @@
 </head>
 <body>
 
+    <!--Você deve adaptar o último código mencionado acima, para que o usuário informe o número que deve ser testado e identificado se Par ou Impar.-->
+
     <h1>Verificaçaõ de número - Par ou Impar</h1>
 
     <form action="" method="GET">
@@ -27,6 +29,6 @@
             echo "O numero informado é IMPAR";
         }
     ?>
-    
+
 </body>
 </html>
